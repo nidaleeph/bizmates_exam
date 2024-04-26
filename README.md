@@ -30,6 +30,6 @@ In conclusion, the Travel Tourist website represents a culmination of my experti
 
 **Step 3**: Run php artisan serve & npm run dev
 
-**Complete**: You can now visit the page at you localhost:8080
+**Complete**: You can now visit the page at your localhost
 
 Too see the overview image of the design you can refer to the image uploaded to the base directory
