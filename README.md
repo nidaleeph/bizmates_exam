@@ -22,7 +22,7 @@ My implementation stands out due to its **simplicity**, **efficiency**, and **ad
 
 In conclusion, the Travel Tourist website represents a culmination of my expertise in web development. By prioritizing **simplicity**, **efficiency**, and **adherence to requirements**, I've created a platform that empowers users to plan their travels effortlessly. The integration of advanced technologies and meticulous attention to detail ensure that the website stands out as a prime example of excellence in web development.
 
-## Introduction
+## Instructions
 
 **Step 1**: Create an env file using the .env.example and change the database connection
 
@@ -31,3 +31,5 @@ In conclusion, the Travel Tourist website represents a culmination of my experti
 **Step 3**: Run php artisan serve & npm run dev
 
 **Complete**: You can now visit the page at you localhost:8080
+
+Too see the overview image of the design you can refer to the image uploaded to the base directory
